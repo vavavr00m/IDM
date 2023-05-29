@@ -108,11 +108,11 @@ ________________________________________________________________________________
                          stackoverflow.com/a/13351373
 
    @ModByPiash        	- Add and fix some missing features.
-                         Homepage:	https://github.com/lstprjct/IDM-Activation-Script
-                         Telegram:	https://t.me/ModByPiash
+<br>                         Homepage:	https://github.com/lstprjct/IDM-Activation-Script
+<br>                         Telegram:	https://t.me/ModByPiash
 			
    @vavavr00m (me)	- Changed set name to prompt for a name
-                         Homepage: https://github.com/vavavr00m/IDM
+<br>                         Homepage: https://github.com/vavavr00m/IDM
 _________________________________
 
 ##   IDM Activation Script
