@@ -37,7 +37,7 @@ On Windows 10/11, right-click on the windows start menu and select PowerShell or
 
 Copy-paste the below code and press enter
 
-iwr -useb https://raw.githubusercontent.com/lstprjct/IDM-Activation-Script/main/IAS.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/vavavr00m/IDM/vavavr00m-modded-branch/IAS.ps1 | iex
 
 You will see the activation options, and follow onscreen instructions.
 
@@ -107,13 +107,15 @@ ________________________________________________________________________________
    @dbenham            - Set buffer height independently of window height
                          stackoverflow.com/a/13351373
 
-   @ModByPiash (Me)	   - Add and fix some missing features.
+   @ModByPiash        	- Add and fix some missing features.
+                         Homepage:	https://github.com/lstprjct/IDM-Activation-Script
+                         Telegram:	https://t.me/ModByPiash
+			
+   @vavavr00m (me)	- Changed set name to prompt for a name
+                         Homepage: https://github.com/vavavr00m/IDM
 _________________________________
 
 ##   IDM Activation Script
- 
- 
-###   Telegram:   https://t.me/ModByPiash
 
   Forum:   https://www.nsaneforums.com/topic/371047--/?do=findComment^&comment=1578647
 ____________________________________________________________________________________________________
