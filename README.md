@@ -95,17 +95,20 @@ ________________________________________________________________________________
 
    @Dukun Cabul        - Original researcher of this IDM trial reset and activation logic,
                          made an Autoit tool for these methods, IDM-AIO_2020_Final
-                         nsaneforums.com/topic/371047--/?do=findComment&comment=1632062
+<br>                         URL: https://nsaneforums.com/topic/371047--/?do=findComment&comment=1632062
                          
    @WindowsAddict	     - Ported the above Autoit tool to a batch script
-
+<br>                         Homepage (login required): https://nsaneforums.com/topic/371047--/?do=findComment&comment=1578647
+<br>			     Email: windowsaddict@protonmail.com             
+   
    @AveYo aka @BAU     - Snippet to set registry ownership and permission recursively
-                         pastebin.com/XTPt0JSC
+<br>                         URL: https://pastebin.com/XTPt0JSC
 
-   @abbodi1406         - Awesome batch script tricks and help
-
-   @dbenham            - Set buffer height independently of window height
-                         stackoverflow.com/a/13351373
+   @abbodi1406         - Awesome batch script tricks and help (PowerShell method of elevating script as admin and pass arguments and preventing loop and solving special characters issue in file path name, fix for the special characters limitation in path name, extract the text from batch script without character and file encoding issue
+<br>			 URL: https://github.com/abbodi1406/BatUtil
+			 
+   @dbenham            - Set buffer height independently of window height, colored text with pure batch method
+<br>                         https://stackoverflow.com/a/13351373
 
    @ModByPiash        	- Add and fix some missing features.
 <br>                         Homepage:	https://github.com/lstprjct/IDM-Activation-Script
@@ -113,9 +116,5 @@ ________________________________________________________________________________
 			
    @vavavr00m (me)	- Changed set name to prompt for a name
 <br>                         Homepage: https://github.com/vavavr00m/IDM
-_________________________________
 
-##   IDM Activation Script
-
-  Forum:   https://www.nsaneforums.com/topic/371047--/?do=findComment^&comment=1578647
 ____________________________________________________________________________________________________
